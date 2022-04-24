@@ -1,0 +1,11 @@
+.content-container, .progress-text, #next-topic-button {
+    margin-top: 40pt;
+}
+
+#topic {
+    margin-bottom: 40pt;
+}
+
+#thinking-time-progress, #speaking-time-progress, #next-topic-button {
+    width: 100%
+}
